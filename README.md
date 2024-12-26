@@ -19,7 +19,7 @@ There are two versions (Online and Offline)
 #### **Offline Version:** <br>Follow these steps to try it:
 1. Clone this repo to get all the code and pre-trained model(pickle_file).
 2. Change current directory into the cloned repo folder.
-3. Install all of the libraries from [environment.yml](https://github.com/AbdassalamAhmad/Attendance_System/blob/main/environment.yml) file by using these commands.
+3. Install all of the libraries from [environment.yml] file by using these commands.
 ```
 conda env create -f environment.yml
 conda activate attendance
